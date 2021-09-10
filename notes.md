@@ -58,6 +58,12 @@ mergesort
 1. 较低的填装因子； （散列表包含的元素数/位置总数）
 2. 良好的散列函数。   
 
+#Chapter 6 广度优先搜索
+两类问题
+1. 从节点A出发，有前往节点B的路径吗？
+2. 从节点A出发，前往节点B的哪条路径最短？
+   
+队列（FIFO，first in first out）；栈（LIFO，last in first out）
 
 
 
