@@ -1,3 +1,5 @@
+A very simple data structure and algorithm book;
+One week is enough to finish it.
 
 #个人总结
 1. 2021年9月中完成，用时约10天，平均每天看一章，用python抄抄代码。
